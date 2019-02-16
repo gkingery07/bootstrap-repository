@@ -1,0 +1,35 @@
+.jumbotron {
+    background-image: url(../dark-paths.png);
+    
+}
+
+.Mainhead {
+    position: fixed;
+    width: 100%;
+    background: #ffffff;
+    margin-top: 0;
+    top: 0px;
+    left: 0px;
+    color: white
+
+}
+
+.h1 { 
+    font-size: 36px;
+    text-align: left;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: teal
+}
+.navbar {
+    float: right;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    background: #ffffff;
+}
+.section {
+    background: white;
+    margin: 100px auto 0px auto;
+    padding: 0px 0px 500x 0px;
+    
+}
